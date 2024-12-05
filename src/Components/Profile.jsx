@@ -100,13 +100,13 @@ const Profile = () => {
             data-aos-delay="700"
           >
             <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-              Proyek 1: Portofolio Pribadi
+              Proyek 1: MarketPlace
             </h3>
             <p className="text-gray-600 dark:text-gray-400 mb-4">
-              Sebuah situs portofolio pribadi yang bersih dan responsif untuk menampilkan keterampilan dan proyek saya.
+              Sebuah Situs Yang Menjual Produk Dengan Berbagai Kategori
             </p>
             <a
-              href="https://github.com/ibnualibrhm/portfolio"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:underline"
@@ -122,13 +122,13 @@ const Profile = () => {
             data-aos-delay="800"
           >
             <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-              Proyek 2: Aplikasi E-commerce
+              Proyek 2: MyLibrary
             </h3>
             <p className="text-gray-600 dark:text-gray-400 mb-4">
-              Platform e-commerce yang memungkinkan pengguna berbelanja online dengan antarmuka yang intuitif.
+              Platform membaca secara online.
             </p>
             <a
-              href="https://github.com/ibnualibrhm/ecommerce-app"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:underline"
@@ -144,13 +144,13 @@ const Profile = () => {
             data-aos-delay="900"
           >
             <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-              Proyek 3: Platform Blogging
+              Proyek 3: Peminjam Online
             </h3>
             <p className="text-gray-600 dark:text-gray-400 mb-4">
-              Platform blogging yang memungkinkan pengguna untuk menerbitkan artikel, mengomentari postingan, dan banyak lagi.
+             Web yang berbasis peminjam secara online.
             </p>
             <a
-              href="https://github.com/ibnualibrhm/blogging-platform"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:underline"
